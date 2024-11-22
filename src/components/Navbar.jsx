@@ -1,4 +1,4 @@
-import { Routes, Route, NavLink, BrowserRouter } from "react-router-dom";
+import { Routes, Route, Link, NavLink, BrowserRouter } from "react-router-dom";
 import Perfil from "./Perfil";
 import Productos from "./Productos";
 import AcercaDe from "./AcercaDe";
@@ -12,9 +12,9 @@ const Navbar = () => {
       <BrowserRouter>
         <nav className="navbar navbar-expand-lg bg-body-tertiary">
           <div className="container-fluid">
-            <a className="navbar-brand" href="#">
+            <Link className="navbar-brand" to="/">
               Navegación
-            </a>
+            </Link>
             <button
               className="navbar-toggler"
               type="button"
