@@ -37,3 +37,6 @@ react-router-guide/
 2. Instala las dependencias con `npm install`.
 3. Corre el proyecto con `npm run dev`.
 4. Ve al navegador y abre `http://localhost:5173/`.
+
+### Documentación de React Router DOM
+https://www.npmjs.com/package/react-router-dom

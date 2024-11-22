@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "nombre": "Mesa",
+    "precio": 100,
+    "descripcion": "Mesa de madera para oficina"
+  },
+  {
+    "id": 2,
+    "nombre": "Computadora",
+    "precio": 500,
+    "descripcion": "Computadora portátil de 15 pulgadas"
+  },
+  {
+    "id": 3,
+    "nombre": "Carro",
+    "precio": 15000,
+    "descripcion": "Auto compacto con bajo consumo de combustible"
+  },
+  {
+    "id": 4,
+    "nombre": "Zapato",
+    "precio": 50,
+    "descripcion": "Zapatos deportivos para correr"
+  },
+  {
+    "id": 5,
+    "nombre": "Camiseta",
+    "precio": 20,
+    "descripcion": "Camiseta de algodón para uso diario"
+  },
+  {
+    "id": 6,
+    "nombre": "Silla",
+    "precio": 60,
+    "descripcion": "Silla ergonómica para oficina"
+  },
+  {
+    "id": 7,
+    "nombre": "Teléfono móvil",
+    "precio": 300,
+    "descripcion": "Smartphone de 6.5 pulgadas con cámara de 48 MP"
+  },
+  {
+    "id": 8,
+    "nombre": "Auriculares",
+    "precio": 80,
+    "descripcion": "Auriculares inalámbricos con cancelación de ruido"
+  },
+  {
+    "id": 9,
+    "nombre": "Laptop",
+    "precio": 800,
+    "descripcion": "Laptop con procesador i7 y 16GB de RAM"
+  },
+  {
+    "id": 10,
+    "nombre": "Reloj inteligente",
+    "precio": 120,
+    "descripcion": "Reloj con monitor de actividad y notificaciones"
+  },
+  {
+    "id": 11,
+    "nombre": "Cafetera",
+    "precio": 40,
+    "descripcion": "Cafetera de goteo con capacidad para 8 tazas"
+  },
+  {
+    "id": 12,
+    "nombre": "Cámara fotográfica",
+    "precio": 600,
+    "descripcion": "Cámara DSLR con lente de 18-55mm"
+  },
+  {
+    "id": 13,
+    "nombre": "Lámpara",
+    "precio": 25,
+    "descripcion": "Lámpara de mesa LED regulable"
+  },
+  {
+    "id": 14,
+    "nombre": "Micrófono",
+    "precio": 70,
+    "descripcion": "Micrófono USB para grabación de audio"
+  },
+  {
+    "id": 15,
+    "nombre": "Proyector",
+    "precio": 300,
+    "descripcion": "Proyector de alta definición para cine en casa"
+  },
+  {
+    "id": 16,
+    "nombre": "Silla de ruedas",
+    "precio": 150,
+    "descripcion": "Silla de ruedas plegable y ligera"
+  },
+  {
+    "id": 17,
+    "nombre": "Refrigerador",
+    "precio": 500,
+    "descripcion": "Refrigerador de 250 litros, con eficiencia energética A++"
+  },
+  {
+    "id": 18,
+    "nombre": "Cuchillos de cocina",
+    "precio": 45,
+    "descripcion": "Set de cuchillos de acero inoxidable para cocina"
+  },
+  {
+    "id": 19,
+    "nombre": "Teclado",
+    "precio": 40,
+    "descripcion": "Teclado mecánico para juegos"
+  },
+  {
+    "id": 20,
+    "nombre": "Cargador portátil",
+    "precio": 30,
+    "descripcion": "Batería externa de 10,000 mAh para cargar dispositivos"
+  }
+]
